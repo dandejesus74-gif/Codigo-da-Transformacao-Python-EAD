@@ -1,4 +1,4 @@
-import utilidades
+import moduloo7.utilidades as utilidades
 
 num1 = 10
 num2 = 5
@@ -15,3 +15,12 @@ print(f' Usando resto_divisao({num1} % {num2}):', utilidades.resto_divisao(num1,
 print(f' Usando potencia({num1} ** {num2}):', utilidades.potencia(num1, num2))
 
 print(f' Usando calcular_media({num1} e {num2}):', utilidades.calcular_media(num1, num2))
+
+
+
+'''
+
+
+
+'''
+
